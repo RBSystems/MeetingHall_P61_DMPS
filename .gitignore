@@ -2,4 +2,6 @@
 *.hash
 *.ASV
 *.vtz
+*.sgd_
+*.bak
 SPlsWork/
